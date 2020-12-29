@@ -1,0 +1,25 @@
+h2,h3,h4{
+text-align: center;
+color: seagreen;
+
+}
+table{
+    margin: 0 auto;
+    color: rgb(128, 156, 240);
+ 
+}
+th,td{
+    padding: 10px;
+    text-align: center;
+    background-color:white;
+    font-size: 20px;
+}
+th:hover{
+background-color: blue;
+  padding: 10px;
+}
+td:hover{
+    background-color: blue;
+  
+}
+
